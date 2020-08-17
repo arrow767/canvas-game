@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9518235c-0284-4fdb-afa8-206b78fe6058" name="Default Changelist" comment="Commit 1" />
+    <list default="true" id="9518235c-0284-4fdb-afa8-206b78fe6058" name="Default Changelist" comment="Commit 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597689274320</updated>
-      <workItem from="1597689275403" duration="17238000" />
+      <workItem from="1597689275403" duration="18734000" />
     </task>
     <servers />
   </component>
@@ -70,5 +73,39 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597706559324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597706559324" />
+    <state x="1310" y="421" width="567" height="204" key="Github.ShareDialog" timestamp="1597706817325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1310" y="421" width="567" height="204" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597706817325" />
+    <state x="1252" y="228" key="Github.UntrackedFilesDialog" timestamp="1597706840283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1252" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597706840283" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1597706650475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597706650475" />
+    <state x="1261" y="257" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1597706631536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1261" y="257" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597706631536" />
+    <state x="1241" y="430" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597706612909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1241" y="430" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597706612909" />
+    <state x="1254" y="367" key="git4idea.ui.GitTagDialog" timestamp="1597706676365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1254" y="367" key="git4idea.ui.GitTagDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597706676365" />
+    <state x="1270" y="314" key="svn.repositoryBrowser" timestamp="1597706786139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1270" y="314" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1597706786139" />
   </component>
 </project>

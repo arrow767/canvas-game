@@ -1,10 +1,38 @@
+body {
+    text-align: center;
+}
+
 #crash-chart{
-    border: 3px solid black;
+    border: 3px solid transparent;
+    border-radius: 10px;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.15);
+}
+
+button,
+button:active,
+button:focus {
+    outline: none;
 }
 
 h1{
     font-family: 'Rubik', sans-serif;
     font-size: 32px;
+}
+
+.start-crash{
+    font-family: 'Rubik', sans-serif;
+    font-size: 32px;
+    border: 1px solid;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #2470dd;
+    cursor: pointer;
+    transition: ease-out .3s;
+    padding: 5px 20px 5px 20px;
+}
+
+.start-crash:hover{
+    background-color: #0848a4;
 }
 
 
